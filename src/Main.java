@@ -10,5 +10,10 @@ public class Main {
         X.size="12547b";
         X.weight="354K";
 
+        Lights l=new Lights();
+        l.color="white";
+        l.size="20x10";
+        l.intensity="750";
+
     }
 }
